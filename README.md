@@ -68,7 +68,8 @@ Tabulation:
 
 a.   KVL:
  
-![exp1t1](https://github.com/user-attachments/assets/c86b6af4-e60b-429d-b290-88e3eaba8742)
+![exp1t2](https://github.com/user-attachments/assets/78fcf9c4-d3df-44a3-84f1-04fd69e158a1)
+
 
 
 b.  KCL:
